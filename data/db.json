@@ -1,0 +1,16 @@
+{
+  "students": [
+    {
+      "rollnumber": "6018",
+      "name": "Zain Ul Abideen",
+      "email": "znabideen@numl.edu.pk",
+      "id": 1
+    },
+    {
+      "rollnumber": "6030",
+      "name": "Ali Raza",
+      "email": "ali@gmail.com",
+      "id": 2
+    }
+  ]
+}
